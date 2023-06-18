@@ -1,7 +1,7 @@
 # jihoojung0106 🍎
 
 
-#🎓 EDUCATION 
+# 🎓 EDUCATION 
   Seoul National University <br>
   BS in Economics<br>
   BS in Computer Science <br>
