@@ -1,5 +1,3 @@
-# jihoojung0106 🍎
-
 
 # 🎓 EDUCATION 
   Seoul National University <br>
