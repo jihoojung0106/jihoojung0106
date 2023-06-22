@@ -3,7 +3,7 @@
   Seoul National University <br>
   BS in Economics<br>
   BS in Computer Science <br>
-  GPA : 3.92/4.3<br>
+  
   March, 2019 - Current<br>
 
 # ⌚️ Work Experience
