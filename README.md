@@ -1,7 +1,7 @@
 
 <div align=center><h1>  🎓 EDUCATION </h1></div>
-## Busan Foreign Language High School <br>
-   March, 2016 - Feburary, 2019 <br>
+<div align=center><h2> Busan Foreign Language High School </h2>
+  <div align=center><h3>March, 2016 - Feburary, 2019 </h3>
   
   
  ## Seoul National University <br>
