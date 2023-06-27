@@ -1,5 +1,5 @@
 
-# 🎓 EDUCATION 
+<div align=center><h1>  🎓 EDUCATION </h1></div>
 ## Busan Foreign Language High School <br>
    March, 2016 - Feburary, 2019 <br>
   
@@ -10,7 +10,7 @@
   
   March, 2019 - Current<br>
 
-# ⌚️ Work Experience
+<div align=center><h1>  ⌚️ Work Experience</h1></div>
  
   ## DeepTrade Technologies Corp <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
    Mobile App Developer<br> Django and React Native<br>
@@ -33,12 +33,12 @@
  
   
  
- # 🐤Personal Project
+<div align=center><h1> 🐤Personal Project</h1></div>
   ## CT reconstruction <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
   Accelerate 3d CT Reconstruction Algorithm Using GPU with Osstem Implant <br>
   March, 2023 - Jung, 2023<br><br>
 
-  # 👑 Awards
+<div align=center><h1>  👑 Awards</h1></div>
  ## Academic Scholarship at Seoul National University<br>
   2019, 2020, 2022<br><br>
   ## Encouragement prize at thesis contest of the Korea Deposit Insurance Corporation<br>
