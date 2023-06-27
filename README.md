@@ -1,5 +1,9 @@
 
 # 🎓 EDUCATION 
+## Busan Foreign Language High School <br>
+   March, 2016 - Feburary, 2019 <br>
+  
+  March, 2019 - Current<br>
  ## Seoul National University <br>
   BS in Economics<br>
   BS in Computer Science <br>
