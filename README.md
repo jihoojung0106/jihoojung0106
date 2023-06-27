@@ -13,7 +13,7 @@
 # ⌚️ Work Experience
  
   ## DeepTrade Technologies Corp <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
-   Mobile App Developer using Django and React Native<br>
+   Mobile App Developer<br> Django and React Native<br>
   January, 2023 - March, 2023<br>
   <br>
 
