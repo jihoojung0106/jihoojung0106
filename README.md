@@ -19,7 +19,7 @@
 
   ## HCI Lab  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
   Research Intern(UROP)<br>
-  Participate in Samsung’s project(Modaps Prediction) and study GCN-based action recognition model<br>
+  Participate in Deep Learning based Modaps Prediction Project and study GCN-based action recognition model<br>
    
   March, 2023 - Current<br>
 
