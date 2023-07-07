@@ -27,7 +27,7 @@
   Research Intern(UROP)<br>
   Study NeRF<br>
    
-  March, 2023 - Current<br>
+  July, 2023 - Current<br>
   
   ## Beautiful Noise Inc. <br>
   NFT Project Manager<br>
