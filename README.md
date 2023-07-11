@@ -15,8 +15,8 @@
  Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.🚀<br/><br/>
  For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo💕<br/><br/>
  
-  I enjoy studying, exploring, and developing. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  I enjoy studying, exploring, developing and animation⛰ 🏄<br/>
+  I hope to develop every cute things. ✨ <br/><br/>
 </p>
 
  
