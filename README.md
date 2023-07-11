@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jihoo's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=00CED1&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jihoo's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
  
  ---
      
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoojung0106&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
 <!--[![JIHO's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/jiholee0/github-readme-stats)-->
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![JIHOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoojung0106&theme=nord&hide_border=true&count_private=true)](https://github.com/jihoojung0106/github-readme-stats)
  
 <!--  <a href="https://github.com/jiholee0">
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiholee0&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=jiholee0's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
@@ -19,123 +19,51 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    <a href="https://blog.naver.com/mewmew16">
+        <img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
-</div><br>
+    </div><br>
 
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/6_o777/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    <a href="https://twitter.com/NotEvenWrong_JJ">
+        <img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="mailto:dlwlgh1254@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="mailto:jjh123579@snu.ac.kr">
+        <img src="https://img.shields.io/badge/SNU-mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=black"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
-    <br>
-</div><br>
-</div>
-
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
-
- 
-
-
-
-
-
-
-
-
-
-
-
-<div align=center><h1>📚 STACKS</h1></div>
-
-<div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <br>
+   
+   
+</div><br>
 </div>
 
-
-
-
-# ⌚️ Work Experience
+<p>
+  👋&nbsp; Hi there! I'm <b>a student majoring in Economics and Computer Science at SNU</b> interested in visual computing.🚀<br/>
+ I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
+ Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.<br/>
+ Also as of July,2023 I am learning NeRF in Computing and Memory Architecture Lab.<br/>
+ Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.<br/>
+ For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo.<br/><br/>
  
-  ## DeepTrade Technologies Corp <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
-   Mobile App Developer<br> Django and React Native<br>
-  January, 2023 - March, 2023<br>
-  <br>
-
-  ## HCI Lab  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
-  Research Intern(UROP)<br>
-  Participate in Deep Learning based Modaps Prediction Project and study GCN-based action recognition model<br>
-   
-  March, 2023 - Current<br>
-
-
-  
-  ## Beautiful Noise Inc. <br>
-  NFT Project Manager<br>
-  Work as core member of 2 international NFT Projects (GENESIS, ESION) Team<br>
-  November, 2021 - August, 2022<br>
-  <br>
- 
- 
- 
- # 🐤Personal Project
-  ## CT reconstruction <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
-  Accelerate 3d CT Reconstruction Algorithm Using GPU with Osstem Implant <br>
-  March, 2023 - Jung, 2023<br><br>
-
-  # 👑 Awards
- ## Academic Scholarship at Seoul National University<br>
-  2019, 2020, 2022<br><br>
-  ## Encouragement prize at thesis contest of the Korea Deposit Insurance Corporation<br>
-  2021<br>
+  I enjoy studying, exploring, and developing. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
 
  
   
