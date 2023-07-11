@@ -9,11 +9,11 @@
 <p>
   👋&nbsp; Hi there! I'm <b>a student majoring in Economics and Computer Science at SNU </b>.🎓<br/><br/>
  
- I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
- Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.🐤<br/>
- Also as of July,2023 I am learning NeRF in Computing and Memory Architecture Lab.😈<br/>
- Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.🚀<br/><br/>
- For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo💕<br/><br/>
+ 1️⃣ I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
+ 2️⃣ Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.🐤<br/>
+ 3️⃣ Also as of July,2023 I am learning NeRF in Computing and Memory Architecture Lab.😈<br/>
+ 4️⃣ Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.🚀<br/><br/>
+ 5️⃣ For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo💕<br/><br/>
  
   I enjoy studying, exploring, developing and animation⛰ 🏄<br/>
   I hope to develop every cute things. ✨ <br/><br/>
