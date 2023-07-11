@@ -23,11 +23,7 @@
    
   March, 2023 - Current<br>
 
-  ## Computing and Memory Architecture Lab  
-  Research Intern(UROP)<br>
-  Study NeRF<br>
-   
-  July, 2023 - Current<br>
+
   
   ## Beautiful Noise Inc. <br>
   NFT Project Manager<br>
