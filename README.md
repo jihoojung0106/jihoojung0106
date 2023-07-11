@@ -6,9 +6,18 @@
  
  ---
   
-<!--  <a href="https://github.com/jiholee0">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiholee0&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=jiholee0's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
-  </a> -->
+<p>
+  👋&nbsp; Hi there! I'm <b>a student majoring in Economics and Computer Science at SNU</b> interested in visual computing.🚀<br/>
+ I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
+ Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.<br/>
+ Also as of July,2023 I am learning NeRF in Computing and Memory Architecture Lab.<br/>
+ Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.<br/>
+ For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo.<br/><br/>
+ 
+  I enjoy studying, exploring, and developing. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
+
  
 <br>
 
@@ -48,17 +57,6 @@
 </div><br>
 </div>
 
-<p>
-  👋&nbsp; Hi there! I'm <b>a student majoring in Economics and Computer Science at SNU</b> interested in visual computing.🚀<br/>
- I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
- Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.<br/>
- Also as of July,2023 I am learning NeRF in Computing and Memory Architecture Lab.<br/>
- Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.<br/>
- For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo.<br/><br/>
- 
-  I enjoy studying, exploring, and developing. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
 
  
   
