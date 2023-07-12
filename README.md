@@ -7,7 +7,7 @@
  ---
   
 <p>
-  👋&nbsp; Hi there! I'm <b>a student majoring in Economics and Computer Science at SNU </b>.🎓<br/><br/>
+  👋&nbsp; Hi there! I'm <b>an undergraduate student majoring in Economics and Computer Science at SNU </b>.🎓<br/><br/>
  
  1️⃣ I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
  2️⃣ Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.🐤<br/>
