@@ -7,19 +7,17 @@
  ---
   
 <p>
-  👋&nbsp; Hi there! I'm <b>an undergraduate student majoring in Economics and Computer Science at SNU </b>.🎓<br/><br/>
- 
- 1️⃣ I have experience working as mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
- 2️⃣ Since March,2023 I've been participating in Deep Learning based Modaps Prediction Project and studying GCN-based action recognition model in Human Computer Interaction Lab.🐤<br/>
- 3️⃣ Also as of July,2023 I am learning NeRF in Computing and Memory Architecture Lab.😈<br/>
- 4️⃣ Though I didn't work as a developer, I Work as core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year.🚀<br/><br/>
- 5️⃣ For a personal project, I accelerate 3d CT Reconstruction algorithm using GPU. You can check my work in my repo💕<br/><br/>
- 
-  I enjoy studying, exploring, developing and animation⛰ 🏄<br/>
-  I hope to develop every cute things. ✨ <br/><br/>
-</p>
+  👋&nbsp; Hi there! I'm <b>an undergraduate student majoring in Economics and Computer Science at SNU</b>. 🎓<br/><br/>
+1️⃣ I have experience working as a mobile app developer using Django and React Native at Deep Trade Technologies Inc.<br/>
+2️⃣ Since March 2023, I've been participating in the Deep Learning-based Modaps Prediction Project and studying the GCN-based action recognition model in the Human-Computer Interaction Lab. 🐤<br/>
+3️⃣ Also, as of July 2023, I am learning NeRF in the Computing and Memory Architecture Lab. 😈<br/>
+4️⃣ Although I didn't work as a developer, I work as a core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year. 🚀<br/><br/>
+5️⃣ For a personal project, I accelerated the 3D CT Reconstruction algorithm using GPU. You can check my work in my repository. 💕<br/><br/>
 
- 
+I enjoy studying, exploring, developing, and animation. ⛰ 🏄<br/>
+I hope to develop every cute thing. ✨ <br/><br/>
+
+</p>
 <br>
 
 ## 💻 DEV's log 💻
