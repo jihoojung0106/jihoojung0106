@@ -13,7 +13,6 @@
 3️⃣ Also, as of July 2023, I am learning NeRF in the Computing and Memory Architecture Lab. 😈<br/>
 4️⃣ Although I didn't work as a developer, I work as a core member of 2 international NFT Projects (GENESIS, ESION) Team for almost a year. 🚀<br/><br/>
 5️⃣ For a personal project, I accelerated the 3D CT Reconstruction algorithm using GPU. You can check my work in my repository. 💕<br/>
-6️⃣ I am now studying NLP in GOORM Training course, overall deep learning in outta
  <br/>
 
 I enjoy studying, exploring, developing, and animation. ⛰ 🏄<br/>
