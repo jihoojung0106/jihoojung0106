@@ -52,7 +52,7 @@ I hope to develop every cute thing. ✨ <br/><br/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple">
-  <img src="https://img.shields.io/badge/Recoil-ffffff?style=for-the-badge&logo=Recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-f26b00?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    
