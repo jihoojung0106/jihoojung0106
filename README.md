@@ -9,7 +9,7 @@
 ## 📜 Resume 📜
 <div style="display:flex; flex-direction:row;">
     <a href="https://jihoojung0106.github.io/">
-       <img src="./cute.jpg>
+       <img src="./cute.jpg">
     </a>
     </div><br>
 
