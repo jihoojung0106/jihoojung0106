@@ -4,8 +4,6 @@
  
 <div align="left">
  
-
-</p>
 <br>
 
 ## 📜 Resume 📜
