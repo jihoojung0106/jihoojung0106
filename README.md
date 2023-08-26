@@ -4,10 +4,16 @@
  
 <div align="left">
  
- ---
-  
+
 </p>
 <br>
+
+## 📜 Resume 📜
+<div style="display:flex; flex-direction:row;">
+    <a href="https://jihoojung0106.github.io/">
+        <img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    </div><br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
