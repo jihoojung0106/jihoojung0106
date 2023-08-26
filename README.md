@@ -25,7 +25,7 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://twitter.com/NotEvenWrong_JJ">
-        <img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> 
     </a>
     <a href="mailto:jjh123579@snu.ac.kr">
         <img src="https://img.shields.io/badge/SNUmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
