@@ -8,8 +8,8 @@
 
 ## 📜 Resume 📜
 <div style="display: flex; flex-direction: row;">
-    <a href="https://jihoojung0106.github.io/" style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px;">
-        <img src="./cute.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <a href="https://jihoojung0106.github.io/" style="border-radius: 50%; overflow: hidden; width: 10px; height: 10px;">
+        <img src="./doggy.png" style="width: 10%; height: 10%;border-radius: 50%; object-fit: cover;">
     </a>
 </div>
 <br>
