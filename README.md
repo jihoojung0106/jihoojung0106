@@ -6,31 +6,6 @@
  
 <br>
 
-## 📜 Resume 📜
-<div style="display: flex; flex-direction: row;">
-    <a href="https://jihoojung0106.github.io/" style="border-radius: 50%; overflow: hidden; width: 10px; height: 10px;">
-        <img src="./doggy.png" style="width: 10%; height: 10%;border-radius: 50%; object-fit: cover;">
-    </a>
-</div>
-<br>
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://blog.naver.com/mewmew16">
-        <img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-    </div><br>
-
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://twitter.com/NotEvenWrong_JJ">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> 
-    </a>
-    <a href="mailto:jjh123579@snu.ac.kr">
-        <img src="https://img.shields.io/badge/SNUmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
