@@ -1,6 +1,3 @@
-# Resume in Latex
-
-[Author: Sourabh Bajaj](https://github.com/sb2nov/resume)
 
 ## Education
 - **Seoul National University** (Seoul, Korea)
