@@ -3,7 +3,10 @@
 - **Seoul National University** (Seoul, Korea)
   - BS in Economics, Computer Science
   - GPA: 3.94/4.3
-  - Mar 2019 -- Present
+  - Mar 2019 - Present
+ - **Busan Foreign Language High School** (Busan, Korea)
+  - Mar 2016 - Feb 2019
+    
 
 ## Work Experience
 - **Beautiful Noise Inc.** (Seoul, Korea)
