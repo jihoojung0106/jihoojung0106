@@ -32,8 +32,8 @@
 - **Ambient AI**
   - Participated in the 2023 Summer Ambient AI BootCamp & Competition at Seoul National University's Data Science Graduate School.
 
-- **Lip Reading**
-  - Participated in the 2023 Summer Ambient AI BootCamp & Competition at Seoul National University's Data Science Graduate School.
+- **Lip Reading**
+  
 
 ## Awards
 - **Encouragement Prize, Thesis Contest** (Korea Deposit Insurance Corporation, Oct 2021)
