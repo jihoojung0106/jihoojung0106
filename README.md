@@ -2,7 +2,7 @@
 ## Education
 - **Seoul National University** (Seoul, Korea)
   - BS in Economics, Computer Science
-  - GPA: 3.94/4.3
+  - GPA: 3.98/4.3
   - Mar 2019 - Present
 - **Busan Foreign Language High School** (Busan, Korea)
   - Mar 2016 - Feb 2019
@@ -30,6 +30,9 @@
   - Implemented and assessed the feasibility of a CPU-based FDK algorithm, incorporated the characteristics of the half-fan detector into the weighting process, and improved image quality through the application of diverse filter functions.
   
 - **Ambient AI**
+  - Participated in the 2023 Summer Ambient AI BootCamp & Competition at Seoul National University's Data Science Graduate School.
+
+- **Lip Reading**
   - Participated in the 2023 Summer Ambient AI BootCamp & Competition at Seoul National University's Data Science Graduate School.
 
 ## Awards
