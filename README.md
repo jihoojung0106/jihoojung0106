@@ -22,7 +22,7 @@
   - Participated in the development of AI-driven image recognition technology for extracting posture information from work motion videos.
   
 - **SNU Computing and Memory Architecture Laboratory** (Seoul, Korea)
-  - *Research Intern* (July 2023 - Present)
+  - *Research Intern* (July 2023 - November 2023)
   - Engaged in an in-depth investigation and research on the advanced field of neural radiance field.
 
 ## Projects
