@@ -1,47 +1,40 @@
 
-## Education
-- **Seoul National University** (Seoul, Korea)
-  - BS in Economics, Computer Science
-  - GPA: 3.98/4.3
-  - Mar 2019 - Present
-- **Busan Foreign Language High School** (Busan, Korea)
-  - Mar 2016 - Feb 2019
-    
+<!--내용 부분-->
+<h3 align="left">✨ Tech Stack ✨</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
-## Work Experience
-- **Beautiful Noise Inc.** (Seoul, Korea)
-  - *NFT Project Manager* (Nov 2021 - Aug 2022)
-  - Served as a pivotal team member within two international NFT projects, spearheading comprehensive project oversight and coordination.
-  
-- **DeepTrade Technologies Corp.** (Seoul, Korea)
-  - *Mobile App Developer* (Jan 2023 - Mar 2023)
-  - Engaged as a Full Stack App Developer proficient in Django and React Native, responsible for crafting API architecture and enhancing application functionality.
-  
-- **SNU Human-Computer Interaction Lab** (Seoul, Korea)
-  - *Research Intern* (Mar 2023 - Aug 2023)
-  - Participated in the development of AI-driven image recognition technology for extracting posture information from work motion videos.
-  
-- **SNU Computing and Memory Architecture Laboratory** (Seoul, Korea)
-  - *Research Intern* (July 2023 - November 2023)
-  - Engaged in an in-depth investigation and research on the advanced field of neural radiance field.
 
-## Projects
-- **CT reconstruction**
-  - Implemented and assessed the feasibility of a CPU-based FDK algorithm, incorporated the characteristics of the half-fan detector into the weighting process, and improved image quality through the application of diverse filter functions.
-  
-- **Ambient AI**
-  - Participated in the 2023 Summer Ambient AI BootCamp & Competition at Seoul National University's Data Science Graduate School.
 
-- **Lip Reading**
-  
 
-## Awards
-- **Encouragement Prize, Thesis Contest** (Korea Deposit Insurance Corporation, Oct 2021)
-  - Recognized for proposing a novel method to detect operational risks by analyzing time series private equity prices.
-  
-- **Excellence Prize, Fintech Idea Contest** (Fintech Center Korea, Sep 2023)
-  - Acknowledged for presenting a pioneering business concept that combines natural language processing and recommendation systems for an international stock trading platform.
 
-## English Skills
-- *New Teps* (Feb 2023)
-  - 534/600
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+
+  
+</div>
+
+
+
+<h3 align="left">🛠 Tools 🛠</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+
+
+
+<div align="left">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+</div>
+
+<br>
+
